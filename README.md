@@ -1,0 +1,2 @@
+# EC7212_Computer_Vision_and_Image_Processing_Take_Home_Assignment_2
+This repository has my solutions for EC7212 Computer Vision and Image Processing Assignment 2. It includes simple Python code for adding noise, using Otsu’s method, and segmenting images with region growing. The code uses real images and shows each step clearly. This is helpful for learning basic image processing and segmentation in Python.
